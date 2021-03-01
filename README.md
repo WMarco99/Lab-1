@@ -1,4 +1,4 @@
-# Lab-1
+## Lab-1
 
 For this lab I wanted to create a map that would geographically visualize the geographies of music. Therefore, I created a concert tour map for the kpop group NCT 127, specifically the second tour of their world tour “NEO CITY -The Origin” which took place in the US and Canada. The purpose of the map is to simply display the chronological order of their tour by city. Furthermore, the markers could be zoomed in to locate the exact location of the venue. This map was created for the fandom and possibly for the group. The locations and the dates were sourced from Wikipedia.  
 
@@ -10,4 +10,5 @@ If this map could be improved, I would have coded the map to zoom from venue to 
 
 https://api.mapbox.com/styles/v1/wmarco7/cklbpit3i1ii317mdspyc2upd.html?fresh=true&title=view&access_token=pk.eyJ1Ijoid21hcmNvNyIsImEiOiJja2tzN2Fla20wNTNlMnBxb3UxbXh1dmJ3In0.SA0P3pgt9_keVHwC4irHfg
 
-### Screenshot
+## Screenshot
+![alt text] ()
