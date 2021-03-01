@@ -4,7 +4,7 @@ For this lab I wanted to create a map that would geographically visualize the ge
 
 For the styling, I used the basic template to display the data. Afterwards, I used Cartogram to create a colour scheme from one of the group’s albums to colour the map. To create the route, I used the bezier drawing tool to create a route between the cities. In terms of data, I filtered out most of the original data in order to highlight the data that is presented. Most of the labels were removed except for country, city and points of interest labels in order to highlight the location of the venue when zoomed in. In addition, I made bilingual labels in English and Korean for both international and Korean fans of the group. 
 
-If this map could be improved, I would have coded the map to zoom from venue to venue itself instead of having the viewer to manually zoom in. If not, I would have added interactivity to the map by adding description boxes. 
+If this map could be improved, I would have coded the map to zoom from venue to venue itself instead of having the viewer to manually zoom in. If not, I would have added interactivity to the map by adding description boxes to the markers. 
 
 ## Link
 
