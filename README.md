@@ -11,4 +11,4 @@ If this map could be improved, I would have coded the map to zoom from venue to 
 https://api.mapbox.com/styles/v1/wmarco7/cklbpit3i1ii317mdspyc2upd.html?fresh=true&title=view&access_token=pk.eyJ1Ijoid21hcmNvNyIsImEiOiJja2tzN2Fla20wNTNlMnBxb3UxbXh1dmJ3In0.SA0P3pgt9_keVHwC4irHfg
 
 ## Screenshot
-![Screenshot] (https://github.com/WMarco99/Lab-1/blob/main/Screenshot%20of%20map.png)
+![Screenshot](https://github.com/WMarco99/Lab-1/blob/main/Screenshot%20of%20map.png)
